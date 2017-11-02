@@ -1,0 +1,14 @@
+/**index.wxss**/
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+image {
+  background: yellowgreen;
+  width: 256rpx;
+  height: 256rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}

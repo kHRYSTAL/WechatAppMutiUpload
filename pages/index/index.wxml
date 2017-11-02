@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="image-container">
+      <image bindtap="bindViewTap" src="{{imageUrl}}" background-size="cover"></image>
+  </view>
+</view>
